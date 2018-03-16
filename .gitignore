@@ -1,4 +1,7 @@
 *.txt
+*.src
+*.sh
+*.pl
 *.TXT
 *.css
 *.inc
@@ -25,7 +28,8 @@
 *.doc
 *.ppt
 *.HTM~
-fantasyorg/*
-hobbittoday/*
-swords/*
-99_NOGO/*
+fantasyorg/
+hobbittoday/
+swords/
+99_NOGO/
+src/
